@@ -2,7 +2,7 @@
 
  Used SelfiSegmentation fuctiuon from cvzone, SelfiSegmentationModule for segment the face or body from the background and also change the background according to our choice.
  
-# How to use:
+# How to use :
 
 1. Download the repo.
 
